@@ -34,7 +34,7 @@ python heart_love_you.py
 ## 📸 Vista previa
 
 
-![Preview](Corazon.png)
+![Preview](Heart_love_you/Corazon.png)
 
 ---
 
